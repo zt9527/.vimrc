@@ -1,3 +1,4 @@
+安装bundle
 # .vimrc
 vim配置文件 YCM
 cp vimrc ~/.vimrc
